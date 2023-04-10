@@ -11,7 +11,7 @@
 ### 🐍 This article provides insights into Instagram reach analysis using Python, a valuable tool for content creators who want to understand how to adapt to Instagram's evolving platform.
 
 
-# Instagram Analysis
+## Instagram Analysis
 
 ### 👩‍🔬📊 As a researcher on Instagram, I have conducted an extensive analysis of the platform's reach metrics. In order to gain insight into how the Instagram algorithm operates, I have gathered data on my own posts and examined their reach after a week. Unfortunately, there are limited APIs available for analyzing Instagram reach, so manual data collection is recommended.
 
